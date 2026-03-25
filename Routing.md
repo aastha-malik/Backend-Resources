@@ -1,4 +1,4 @@
-# 6. What is Routing in Backend? How Requests Find Their Way Home
+# What is Routing in Backend? How Requests Find Their Way Home
 
 ## Table of Contents
 1. [What is Routing?](#1-what-is-routing)
