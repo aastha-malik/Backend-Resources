@@ -1,4 +1,4 @@
-# Docker Notes 
+# Docker 
 ---
 
 ## 1. What Problem Does Docker Solve?
