@@ -1,7 +1,4 @@
 # 07 — Serialization & Deserialization
-
-> Notes from: *Backend Engineering from First Principles* — Video 7
-
 ---
 
 ## 1. The Core Problem
@@ -184,5 +181,3 @@ Here's what happens when a user submits a form on a website:
 - Binary formats (Protobuf, Avro) exist for performance-critical scenarios — not typical REST APIs
 
 ---
-
-*Backend Engineering from First Principles playlist — Video 7*
